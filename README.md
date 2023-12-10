@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/Alexx23">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,mongodb,mysql,postgres,redis,java,js,ts,laravel,php,nodejs,express,aws,azure,githubactions,cloudflare,nginx,c,cpp,py,firebase,maven,git,github,grafana,bash,postman,react,nextjs,vue,nuxtjs,css,tailwind,bootstrap,html,arduino&perline=13" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,mongodb,mysql,postgres,redis,java,js,ts,laravel,php,nodejs,express,aws,azure,githubactions,cloudflare,nginx,c,cpp,py,linux,firebase,maven,git,github,grafana,bash,postman,react,nextjs,vue,nuxtjs,css,tailwind,bootstrap,html,arduino&perline=13" />
   </a>
 </p>
 <br>
@@ -34,3 +34,4 @@
     <img src="https://img.shields.io/badge/LinkedIn:%20Alejandro%20Santamaria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
 </p>
+<br>
