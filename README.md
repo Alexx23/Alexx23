@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About me
 
 - 👨‍🎓 Computer Science Engineer
-- 🖥️ Backend & Cloud engineer
+- 🖥️ Backend & Cloud
 - 🧠 Learning new technologies
 - ⭐ Github enthusiast
 <br>
